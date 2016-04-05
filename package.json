@@ -5,7 +5,7 @@
   "main": "node.js",
   "bin": "node.js",
   "dependencies": {
-    "jbinary": "^2.1.2",
+    "jbinary": "git://github.com/iameli/jBinary.git#2ce7789b1308e9685afb6556845fba32f3412107",
     "jdataview": "^2.4.6",
     "stack-displayname": "^1.0.0"
   },
